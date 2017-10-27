@@ -1,20 +1,32 @@
 html {
   box-sizing: border-box;
   font: normal 100%/1.5 sans-serif;
+  background-color: #f0eee8;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
 }
 
-div {
+section {
+  display: block;
   background-color: #dcd4cd:
   border: 3px solid #9a816d;
   border-radius: 8px;
 }
 
-div:hover {
+section:hover {
   background-color: #cabdb2;
   border: 3px solid #9a816d;
   border-radius: 8px;
+}
+
+ul {
+  display: block;
+}
+
+li {
+  float: left;
+  width: 50%;
+  list-style-type: none
 }
