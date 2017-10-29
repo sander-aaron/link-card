@@ -22,6 +22,7 @@ section {
   background-color: #dcd4cd:
   border: 3px solid #9a816d;
   border-radius: 8px;
+  padding: .2em;
 }
 
 section:hover {
@@ -52,4 +53,16 @@ ul {
   list-style-type: none;
   font-style: italic;
   font-family: Georgia, serif;
+}
+
+.learn {
+  background-color: #785439;
+  color: #fff;
+  font-family: "Dosis", sans-serif;
+  text-align: center;
+  display: inline-block;
+  padding: .3em;
+  font-size: 1.125rem;
+  border-radius: 8px;
+  text-decoration: none;
 }
