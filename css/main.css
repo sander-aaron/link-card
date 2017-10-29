@@ -2,10 +2,19 @@ html {
   box-sizing: border-box;
   font: normal 100%/1.5 sans-serif;
   background-color: #f0eee8;
+  line-height: 1.5;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
+}
+
+h1 {
+  font-family: "Dosis", sans-serif;
+}
+
+p {
+  font-family: Georgia, serif;
 }
 
 section {
@@ -23,10 +32,24 @@ section:hover {
 
 ul {
   display: block;
+  padding: 0;
+  line-height: 1.5rem;
+  border: 1px solid #9a816d;
 }
 
-li {
+.left {
+  text-align: left;
   float: left;
   width: 50%;
-  list-style-type: none
+  list-style-type: none;
+  font-family: Georgia, serif;
+}
+
+.right {
+  text-align: left;
+  float: right;
+  width: 50%;
+  list-style-type: none;
+  font-style: italic;
+  font-family: Georgia, serif;
 }
