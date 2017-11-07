@@ -86,6 +86,10 @@ ul {
   text-decoration: none;
 }
 
+.link-card:hover {
+  background-color: #785439;
+}
+
 .list {
   display: block;
 }
