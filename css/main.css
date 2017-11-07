@@ -40,7 +40,7 @@ section:hover {
   border-radius: 8px;
 }
 
-ul {
+dl {
   margin: 0;
   padding: 1em;
   line-height: 1.5rem;
@@ -73,7 +73,7 @@ ul {
   font-family: Georgia, serif;
 }
 
-.learn {
+.link-card {
   margin: auto;
   background-color: #785439;
   color: #fff;
