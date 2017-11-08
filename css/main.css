@@ -74,7 +74,7 @@ ul {
   font-family: Georgia, serif;
 }
 
-.link-cards {
+.outside {
   margin: auto;
   background-color: #785439;
   color: #fff;
@@ -89,7 +89,7 @@ ul {
   margin-left: 25%;
 }
 
-.link-card {
+.btn {
   margin: auto;
   background-color: #785439;
   color: #fff;
@@ -102,12 +102,8 @@ ul {
   text-decoration: none;
 }
 
-.link-card:hover {
+.btn:hover {
   background-color: #785439;
-}
-
-.btn {
-  margin: auto;
 }
 
 .list {
