@@ -16,7 +16,7 @@ h2 {
   margin: 0;
   padding-left: .7em;
   font-weight: 900;
-  padding-top: .45em;
+  padding-top: .4em;
 }
 
 p {
@@ -72,6 +72,21 @@ ul {
   list-style-type: none;
   font-style: italic;
   font-family: Georgia, serif;
+}
+
+.link-cards {
+  margin: auto;
+  background-color: #785439;
+  color: #fff;
+  font-family: Dosis, sans-serif;
+  text-align: center;
+  display: inline-block;
+  padding: .3em;
+  margin-bottom: .5em;
+  font-size: 1.125rem;
+  border-radius: 8px;
+  text-decoration: none;
+  margin-left: 25%;
 }
 
 .link-card {
