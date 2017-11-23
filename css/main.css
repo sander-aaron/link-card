@@ -89,7 +89,7 @@ ul {
   display: inline-block;
 }
 
-a.more {
+p.more {
   margin: auto;
   background-color: #785439;
   color: #fff;
@@ -104,10 +104,12 @@ a.more {
 
 .link-card {
   background-color: #dcd4cd;
+  text-decoration: none;
 }
 
 .link-card:hover {
   background-color: #785439;
+  text-decoration: none;
 }
 
 .btn {
