@@ -51,11 +51,7 @@ dl {
   margin-bottom: 1em;
 }
 
-dd {
-  margin: 0;
-}
-
-.left {
+dt {
   color: #512200;
   font-size: .875rem;
   line-height: 1.5;
@@ -66,7 +62,7 @@ dd {
   font-family: Georgia, serif;
 }
 
-.right {
+dd {
   color: #512200;
   font-size: .875rem;
   line-height: 1.5;
@@ -76,6 +72,7 @@ dd {
   list-style-type: none;
   font-style: italic;
   font-family: Georgia, serif;
+  margin: 0;
 }
 
 .more {
