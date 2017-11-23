@@ -51,6 +51,10 @@ dl {
   margin-bottom: 1em;
 }
 
+dd {
+  margin: 0;
+}
+
 .left {
   color: #512200;
   font-size: .875rem;
